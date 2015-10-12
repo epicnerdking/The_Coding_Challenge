@@ -1,6 +1,8 @@
 THE CODING CHALLENGE
 
 Challenge Log:
-	
-	[001 - 'Playfair'] Proposed by Richard, due 2015-10-11 12:00 PM
+
+	[001 - 'Playfair'] Proposed by Richard, due 2015-10-11 11:59 PM
+		Requirements:
+		Create a program that will encrypt and decrypt using the Playfair Cipher. Custom key not required.
 	
